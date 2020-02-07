@@ -2,7 +2,7 @@
 
 // Put your device token here (without spaces):
 
-$deviceToken = 'c5614e18d7f7934e555f98233c5f8df3d3855c5002a8654be89c4751e13db148';
+$deviceToken = '';
 
 // Put your private key's passphrase here:
 
