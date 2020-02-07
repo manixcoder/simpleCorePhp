@@ -15,7 +15,7 @@ class GCM
 
 	
 
-		$apiKey = "AIzaSyCqR-jkb5pOUAXo7ZjCzakWjLIZJDvSObg";
+		$apiKey = "";
 		//$url = 'https://android.googleapis.com/gcm/send';
 		$url = 'https://fcm.googleapis.com/fcm/send';
 		$fields = array(
