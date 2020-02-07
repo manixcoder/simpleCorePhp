@@ -1,6 +1,6 @@
 <?php
         // Put your device token here (without spaces):
-        $deviceToken = 'deviceToken23';
+        $deviceToken = 'deviceToken';
         // Put your private key's passphrase here:
         $passphrase = '123456';
         // Put your alert message here:
