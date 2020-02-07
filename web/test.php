@@ -3,7 +3,7 @@
 
 
 //$regId = "APA91bFto90mumznrW9GYEY2_PEVPfdN_klnhV64kV4hQGO5LcS5c07i6HyYiHE4k0FEmaRheaqzlnULQno7rEw_haiPYTNbwK-hQ9yPNu_P0UCOgWc299XAdrNTbCXqikNoV-hoGOfeGZBOleNIvp6wQv1HJnOiWA";
-$regId = "APA91bFD2vGIYiqcjt4vGopF05cjnv6RpexXyk8x4OihoX0RpeeAuicMjemNQpJXzkA92tRTFDBcoW-K0OwZwywiydQcVzYZ5jqgdDiaN6OqVgQKvShfAeA4fOYQcRFPAE0gJIXpp5Fi";
+$regId = "";
 $message = "Hello This is the test Message";
 
 include_once('notification.php');
