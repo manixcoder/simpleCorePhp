@@ -1,7 +1,7 @@
 <?php
 
 // Put your device token here (without spaces):
-$deviceToken = 'aa445895996020cd5ed692a0a14729bd658b9b57990ddc7779ad3f1e74b476fa';
+$deviceToken = '';
 
 // Put your private key's passphrase here:
 $passphrase = 'pushchat';
