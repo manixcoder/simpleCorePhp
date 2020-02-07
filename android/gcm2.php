@@ -24,7 +24,7 @@ class GCM
 
 		// Set POST variables
 
-		$apiKey = "AIzaSyCBR0gIIFVzSLZQWdeoNAbHj5kwu1kBe_M";
+		$apiKey = "";
 		$url = 'https://android.googleapis.com/gcm/send';
 		$fields = array(
 			'registration_ids' => $registatoin_ids,
